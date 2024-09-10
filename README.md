@@ -1,2 +1,2 @@
 # HCI-Lab-class
-This is for 
+This is for HCI Lab class

@@ -33,6 +33,7 @@ NIM: 2802503791
   <source media="(prefers-color-scheme: light)" srcset="Session_01/Codepen2.png">
   <img alt="Screenshot of Codepen registration, again." src="Session_01/Codepen1.png">
 </picture>
+
 ### Figma
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Session_01/Figma.png">

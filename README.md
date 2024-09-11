@@ -2,7 +2,7 @@
 
 # HCI-Lab-class
 This is for HCI Lab class.
-Everything will be added in a new folder each week. At least that's what I want but idk how to make folders in GitHub yet.
+Everything will be added in a new folder each week.
 
 ### Student info for easy grading
 NIM: 2802503791

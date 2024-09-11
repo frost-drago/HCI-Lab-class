@@ -44,9 +44,9 @@ NIM: 2802503791
 </table>
 
 - **Other tools** I've used:
-  - **Node.js** - JS runtime environment... can be used to make a server, if my understanding isn't wrong.
-  - **Apache** - Server environment, locally. Offline.
-  - **Ngrok** - With this my computer is the web server and I don't need to upload my files somewhere else. I can access the site on my phone.
+  - **Node.js** - (JS runtime environment... can be used to make a server, if my understanding isn't wrong 😅.)
+  - **XAMPP** - (Server environment, locally. Offline. Connects me to Apache and MySQL.)
+  - **Ngrok** - https://ngrok.com/ (With this my computer is the web server and I don't need to upload my files somewhere else. I can access the site on my phone.)
   - **SQLiteDatabaseBrowserPortable** - https://sqlitebrowser.org/ (Portable and lightweight database editor.)
 
 ## CodePen

@@ -21,24 +21,24 @@ NIM: 2802503791
     <th>
       <source media="(prefers-color-scheme: dark)" srcset="Session_01/live-server_ritwick-dey_VSC-extension.png">
       <source media="(prefers-color-scheme: light)" srcset="Session_01/live-server_ritwick-dey_VSC-extension.png">
-      <img alt="Screenshot of Codepen registration." src="Session_01/live-server_ritwick-dey_VSC-extension.png"> 
+      <img src="Session_01/live-server_ritwick-dey_VSC-extension.png"> 
     </th>
     <th>
       <source media="(prefers-color-scheme: dark)" srcset="Session_01/bootstrap-4_ashok-koyi_VSC-extension.png">
       <source media="(prefers-color-scheme: light)" srcset="Session_01/bootstrap-4_ashok-koyi_VSC-extension.png">
-      <img alt="Screenshot of Codepen registration." src="Session_01/bootstrap-4_ashok-koyi_VSC-extension.png"> 
+      <img src="Session_01/bootstrap-4_ashok-koyi_VSC-extension.png"> 
     </th>
   </tr>
   <tr>
     <th>
       <source media="(prefers-color-scheme: dark)" srcset="Session_01/html-css-support_ecmel_VSC-extension.png">
       <source media="(prefers-color-scheme: light)" srcset="Session_01/html-css-support_ecmel_VSC-extension.png">
-      <img alt="Screenshot of Codepen registration." src="Session_01/html-css-support_ecmel_VSC-extension.png"> 
+      <img src="Session_01/html-css-support_ecmel_VSC-extension.png"> 
     </th>
     <th>
       <source media="(prefers-color-scheme: dark)" srcset="Session_01/eslint_microsoft_VSC-extension.png">
       <source media="(prefers-color-scheme: light)" srcset="Session_01/eslint_microsoft_VSC-extension.png">
-      <img alt="Screenshot of Codepen registration." src="Session_01/eslint_microsoft_VSC-extension.png"> 
+      <img src="Session_01/eslint_microsoft_VSC-extension.png"> 
     </th>
   </tr>
 </table>
@@ -47,7 +47,7 @@ NIM: 2802503791
   - **Node.js** - JS runtime environment... can be used to make a server, if my understanding isn't wrong.
   - **Apache** - Server environment, locally. Offline.
   - **Ngrok** - With this my computer is the web server and I don't need to upload my files somewhere else. I can access the site on my phone.
-  - **SQLiteDatabaseBrowserPortable** - Portable and lightweight database editor.
+  - **SQLiteDatabaseBrowserPortable** - https://sqlitebrowser.org/ (Portable and lightweight database editor.)
 
 ## CodePen
 <picture>
